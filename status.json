@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-11-03T02:00:00Z",
+  "harness": {
+    "state": "idle",
+    "note": "mailbox initialized"
+  },
+  "coding_kun": {
+    "state": "idle",
+    "note": "waiting for first task",
+    "active_task": null
+  }
+}
