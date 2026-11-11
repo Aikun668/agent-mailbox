@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-03T02:00:00Z",
+  "updated_at": "2026-11-11T06:49:35Z",
   "harness": {
     "state": "idle",
-    "note": "mailbox initialized"
+    "note": "Coding Jade deposited 2026-11-10 two-round review files under results/ (reference only)."
   },
   "coding_kun": {
     "state": "idle",
